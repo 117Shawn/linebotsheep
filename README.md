@@ -113,13 +113,3 @@ ngrok http 8000
 
 ![圖片](https://user-images.githubusercontent.com/66719236/209529600-0380508f-0dfb-41be-afc1-c58c4a1c102b.png)
 
-
-
-
-## 有限狀態機
-
-
-
-
-
-
