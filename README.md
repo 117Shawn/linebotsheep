@@ -107,6 +107,8 @@ ngrok http 8000
 
 2.Line API - 建立圖文選單方便連結、做推薦
 
+![Screenshot_20221226-214849](https://user-images.githubusercontent.com/66719236/209555611-8fd540f0-c3b7-4fa6-a788-e0ee90768bca.png)
+
 3.Others - 將資訊寫入試算表進行記錄
 
 ![圖片](https://user-images.githubusercontent.com/66719236/209529600-0380508f-0dfb-41be-afc1-c58c4a1c102b.png)
