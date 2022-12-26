@@ -102,6 +102,8 @@ ngrok http 8000
 
 ## Bonus 部分
 1.GCP - 開放兩個API(Google Drive API/Google Sheets API)分別進行存取雲端硬碟、操作試算表
+![圖片](https://user-images.githubusercontent.com/66719236/209534192-45350c82-de73-4ea0-a200-1f86d36f448d.png)
+![圖片](https://user-images.githubusercontent.com/66719236/209534215-c0a51eb9-3e15-4477-b793-6c0e58e01481.png)
 
 2.Line API - 建立圖文選單方便連結、做推薦
 
